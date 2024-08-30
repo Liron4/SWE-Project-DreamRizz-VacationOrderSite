@@ -1,6 +1,6 @@
 # DreamRizz - Vacation and Travel Bundle Booking System
 
-![DreamRizz Logo](./Logo.png)
+<img src="./Logo.png" alt="DreamRizz Logo" width="50%">
 
 ## Overview
 DreamRizz is a user-friendly system that simplifies booking vacation bundles, integrating with existing travel services. It ensures flexibility, ease of use, and secure transactions, offering a modern alternative to traditional booking methods.
